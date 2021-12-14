@@ -17,10 +17,9 @@ REPLY_MARKUP = InlineKeyboardMarkup([
     [InlineKeyboardButton(text="🙋‍♀️ Creater", url=f"https://t.me/Itz_Sadew"),
         InlineKeyboardButton(
             text="👥 Support Group", url=f"https://t.me/SDBotz")],
-    [InlineKeyboardButton("👥 Group",
-                          url="https://t.me/SDBotz")],
-    [InlineKeyboardButton("🔊 Channel",
-                          url="https://t.me/SDBOTs_Inifinity")]])
+    [InlineKeyboardButton(text="🙋‍♀️ Update Channel", url=f"https://t.me/SDBOTs_Inifinity"),
+        InlineKeyboardButton(
+            text="💾 Scource Code", url=f"https://github.com/Sadew451")]])
 
 @SD.on_message(filters.command('start') & filters.private)
 async def start(client, message):    
