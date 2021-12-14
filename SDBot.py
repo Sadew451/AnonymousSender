@@ -8,9 +8,9 @@ BOT_TOKEN = ("2100965681:AAH_09Shvy-kaHyioHnPJlUa2Y5z88zUbNY")
 
 SD = Client("anymouse sender", bot_token = BOT_TOKEN, api_id = API_ID, api_hash = API_HASH)
 
-START_TEXT = """Hey I am **Anonymous Sner Bot.**\n
-Just Forward me Some messages or
+START_TEXT = """Hey I am **Anonymous Sner Bot.** Just Forward me Some messages or
 media and I will **Anonymize** that !!
+
 Made by @SDBotsz"""
 
 REPLY_MARKUP = InlineKeyboardMarkup([
