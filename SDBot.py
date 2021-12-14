@@ -4,6 +4,10 @@ from pyrogram.types.bots_and_keyboards.reply_keyboard_markup import ReplyKeyboar
 
 SD = Client("anymouse sender", bot_token = BOT_TOKEN, api_id = API_ID, api_hash = API_HASH)
 
+API_ID = ("4165223")
+API_HASH = ("972c118766f5e4a76847c1ffdb7d9a04")
+BOT_TOKEN = ("2100965681:AAH_09Shvy-kaHyioHnPJlUa2Y5z88zUbNY")
+
 START_TEXT = """Hey I am **Anonymous Sner Bot.**\n
 Just Forward me Some messages or
 media and I will **Anonymize** that !!
