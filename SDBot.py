@@ -14,8 +14,9 @@ media and I will **Anonymize** that !!
 Made by @SDBotsz"""
 
 REPLY_MARKUP = InlineKeyboardMarkup([
-    [InlineKeyboardButton("Creater",
-                          url="https://t.me/Itz_Sadew")],
+    [InlineKeyboardButton(text="🙋‍♀️ Creater", url=f"https://t.me/Itz_Sadew"),
+        InlineKeyboardButton(
+            text="👥 Support Group", url=f"https://t.me/SDBotz")],
     [InlineKeyboardButton("👥 Group",
                           url="https://t.me/SDBotz")],
     [InlineKeyboardButton("🔊 Channel",
