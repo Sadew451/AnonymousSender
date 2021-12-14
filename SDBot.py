@@ -8,6 +8,8 @@ BOT_TOKEN = ("2100965681:AAH_09Shvy-kaHyioHnPJlUa2Y5z88zUbNY")
 
 SD = Client("anymouse sender", bot_token = BOT_TOKEN, api_id = API_ID, api_hash = API_HASH)
 
+STICKER = "CAACAgEAAxkBAAEByPxhuFGJrPxtyuVHqhUDlwLBFyx3uAACrAIAArx2eUS2Q-OWqN3gZyME"
+
 START_TEXT = """Hey I am **Anonymous Sner Bot.** Just Forward me Some messages or
 media and I will **Anonymize** that !!
 
@@ -23,6 +25,7 @@ REPLY_MARKUP = InlineKeyboardMarkup([
 
 @SD.on_message(filters.command('start') & filters.private)
 async def start(client, message):    
+    await message.reply_sticker(STICKER)
     await message.reply_text(START_TEXT,
                              reply_markup=REPLY_MARKUP)
 
