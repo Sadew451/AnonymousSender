@@ -11,13 +11,12 @@ SD = Client("anymouse sender", bot_token = BOT_TOKEN, api_id = API_ID, api_hash 
 
 STICKER = "CAACAgEAAxkBAAEByPxhuFGJrPxtyuVHqhUDlwLBFyx3uAACrAIAArx2eUS2Q-OWqN3gZyME"
 
-START_TEXT = """👋 Hey [{}](tg://user?id={})
-I am **Anonymous Sender Bot.** 
+START_TEXT = """👋 Hey I am **Anonymous Sender Bot.** 
 
 Just Forward me Some messages or media and I will **Anonymouse** that !!
 
-🔥 Server : [Heroku](Heroku.com)
-🔥 Library : [Pyrogram](https://github.com/pyrogram/pyrogram)
+- Server : [Heroku](Heroku.com)
+- Library : [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 Made by @SDBotsz."""
 
@@ -34,7 +33,7 @@ async def start(client, message):
     await message.reply_sticker(STICKER)
     await message.reply_text(START_TEXT,
                              reply_markup=REPLY_MARKUP)
-    disable_web_page_preview=True,
+                             disable_web_page_preview=True,
     
 @SD.on_message(filters.caption & filters.private)
 async def addorno(client, message):
