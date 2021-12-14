@@ -11,8 +11,8 @@ SD = Client("anymouse sender", bot_token = BOT_TOKEN, api_id = API_ID, api_hash 
 
 STICKER = "CAACAgEAAxkBAAEByPxhuFGJrPxtyuVHqhUDlwLBFyx3uAACrAIAArx2eUS2Q-OWqN3gZyME"
 
-START_TEXT = """Hey I am **Anonymous Sner Bot.** Just Forward me Some messages or
-media and I will **Anonymize** that !!
+START_TEXT = """Hey I am **Anonymous Sender Bot.** Just Forward me Some messages or
+media and I will **Anonymouse** that !!
 
 Made by @SDBotsz"""
 
