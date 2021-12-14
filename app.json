@@ -1,30 +1,47 @@
 {
-    "name": "Anonymous Sender Bot",
-    "description": "simple anonymous sender bot.",
+    "name": "Anonymous Sender",
+    "description": "A Simple Anonymous Sender.",
+    "logo": "https://cdn.worldvectorlogo.com/logos/incognito-1.svg",
     "keywords": [
-        "AnonymousSender",
+        "Anonymous Sender",
+        "SDBots",
         "Telegram Bot",
-        "SDBots"
+        "Sadew451"
     ],
+    "website": "https://t.me/SDBOTs_Inifinity",
     "repository": "https://github.com/Sadew451/AnonymousSender",
-    "success_url": "https://t.me/SDBOTs_Inifinity",
+    "success_url": "https://t.me/SDBOTz",
     "env": {
-        "API_ID": {
-            "description": "Your Telegram API_ID Token from @SDMyTgOrgBot",
+        "BOT_TOKEN": {
+            "description": "You Telegram Bot Token from @BotFather",
             "value": ""
-        }
-      "API_HASH": {
-            "description": "Your Telegram API_HASH Token from @SDMyTgOrgBot",
+        },
+        "API_HASH": {
+            "description": "Your API Hash from my.telegram.org",
             "value": ""
-        }
-      "BOT_TOKEN": {
-            "description": "Your Telegram Bot Token from @BotFather",
+        },
+        "APP_ID": {
+            "description": "Your APP ID from my.telegram.org",
+            "value": ""
+        },
+        "CHANNEL_USERNAME": {
+            "description": "Your channel username that you want to force subscribe",
+            "value": ""
+        },
+        "WARN_MESSAGE": {
+            "description": "The warn message you want to send after muted a member",
+            "value": ""
+        },
+        "START_MESSAGE": {
+            "description": "The message you want to send on bot's pm when do /start",
             "value": ""
         }
     },
     "addons": [],
     "buildpacks": [
-        {"url": "heroku/python"}
+        {
+            "url": "heroku/python"
+        }
     ],
     "formation": {
         "worker": {
