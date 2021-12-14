@@ -1,0 +1,35 @@
+{
+    "name": "Anonymous Sender Bot",
+    "description": "simple anonymous sender bot.",
+    "keywords": [
+        "AnonymousSender",
+        "Telegram Bot",
+        "SDBots"
+    ],
+    "repository": "https://github.com/Sadew451/AnonymousSender",
+    "success_url": "https://t.me/SDBOTs_Inifinity",
+    "env": {
+        "API_ID": {
+            "description": "Your Telegram API_ID Token from @SDMyTgOrgBot",
+            "value": ""
+        }
+      "API_HASH": {
+            "description": "Your Telegram API_HASH Token from @SDMyTgOrgBot",
+            "value": ""
+        }
+      "BOT_TOKEN": {
+            "description": "Your Telegram Bot Token from @BotFather",
+            "value": ""
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {"url": "heroku/python"}
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
