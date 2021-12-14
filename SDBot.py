@@ -1,7 +1,7 @@
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from pyrogram.types.bots_and_keyboards.reply_keyboard_markup import ReplyKeyboardMarkup
-from About import helper.about
+from helper import about
 
 API_ID = ("4165223")
 API_HASH = ("972c118766f5e4a76847c1ffdb7d9a04")
