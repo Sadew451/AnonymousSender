@@ -13,6 +13,12 @@ Just Forward me Some messages or
 media and I will **Anonymize** that !!
 Made by @SDBotsz"""
 
+REPLY_MARKUP = InlineKeyboardMarkup([
+    [InlineKeyboardButton("👥 Group",
+                          url="https://t.me/SDBotz")],
+    [InlineKeyboardButton("🔊 Channel",
+                          url="https://t.me/SDBOTs_Inifinity")]])
+
 @SD.on_message(filters.command('start') & filters.private)
 async def start(client, message):    
     await message.reply_text(START_TEXT) 
@@ -26,13 +32,6 @@ async def addorno(client, message):
     InlineKeyboardButton(text="No",
     callback_data=f"no-{msg}")])
     )
-
-
-REPLY_MARKUP = InlineKeyboardMarkup([
-    [InlineKeyboardButton("👥 Group",
-                          url="https://t.me/SDBotz")],
-    [InlineKeyboardButton("🔊 Channel",
-                          url="https://t.me/SDBOTs_Inifinity")]])
 
 @SD.on_message(filters.private & filters.text | filters.media)
 async def SDBot(client, message):
