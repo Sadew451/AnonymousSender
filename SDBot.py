@@ -11,13 +11,18 @@ SD = Client("anymouse sender", bot_token = BOT_TOKEN, api_id = API_ID, api_hash 
 
 STICKER = "CAACAgEAAxkBAAEByPxhuFGJrPxtyuVHqhUDlwLBFyx3uAACrAIAArx2eUS2Q-OWqN3gZyME"
 
-START_TEXT = """Hey I am **Anonymous Sender Bot.** Just Forward me Some messages or
-media and I will **Anonymouse** that !!
+START_TEXT = """👋 Hey {} 
+I am **Anonymous Sender Bot.** 
 
-Made by @SDBotsz"""
+Just Forward me Some messages or media and I will **Anonymouse** that !!
+
+🔥 Server : [Heroku](Heroku.com)
+🔥 Library : [Pyrogram](https://github.com/pyrogram/pyrogram)
+
+Made by @SDBotsz."""
 
 REPLY_MARKUP = InlineKeyboardMarkup([
-    [InlineKeyboardButton(text="🙋‍♀️ Creater", callback_data="help"),
+    [InlineKeyboardButton(text="👩‍💻 Creater", url="https://t.me/Itz_Sadew"),
         InlineKeyboardButton(
             text="👥 Support Group", url=f"https://t.me/SDBotz")],
     [InlineKeyboardButton(text="🙋‍♀️ Update Channel", url=f"https://t.me/SDBOTs_Inifinity"),
