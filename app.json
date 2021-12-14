@@ -23,19 +23,6 @@
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org",
             "value": ""
-        },
-        "CHANNEL_USERNAME": {
-            "description": "Your channel username that you want to force subscribe",
-            "value": ""
-        },
-        "WARN_MESSAGE": {
-            "description": "The warn message you want to send after muted a member",
-            "value": ""
-        },
-        "START_MESSAGE": {
-            "description": "The message you want to send on bot's pm when do /start",
-            "value": ""
-        }
     },
     "addons": [],
     "buildpacks": [
