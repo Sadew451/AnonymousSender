@@ -1,1 +1,1 @@
-worker: python3 SDBot.py
+worker: python3 main.py
