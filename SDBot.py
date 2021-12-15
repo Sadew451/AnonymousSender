@@ -1,5 +1,5 @@
 import logging
-from SDBots import SDBot
+from envs import env
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from pyrogram.types.bots_and_keyboards.reply_keyboard_markup import ReplyKeyboardMarkup
@@ -7,10 +7,10 @@ from pyrogram.types.bots_and_keyboards.reply_keyboard_markup import ReplyKeyboar
 logging.basicconfig(level=logging.INFO)
 
 SD = Client('Anonymous-Sender',
-        api_id=SDBot.API_ID,
-        api_hash=SDBot.API_HASH,
-        bot_token=SDBot.BOT_TOKEN,
-        SDBot=dict(root="helper"))
+        api_id=env.API_ID,
+        api_hash=env.API_HASH,
+        bot_token=env.BOT_TOKEN,
+        SDBot=dict(root="SDBot"))
 
 STICKER = "CAACAgEAAxkBAAEByrhhud7I5QYR81zDK_43Fq0lLLXfUQACFgEAAnqTKUSkDDzwSrcbwyME"
 
