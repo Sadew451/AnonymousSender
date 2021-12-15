@@ -11,8 +11,7 @@ SD = Client("anymouse sender", bot_token = BOT_TOKEN, api_id = API_ID, api_hash 
 STICKER = "CAACAgEAAxkBAAEByrhhud7I5QYR81zDK_43Fq0lLLXfUQACFgEAAnqTKUSkDDzwSrcbwyME"
 
 START_TEXT = """👋 Hey I am **Anonymous Sender Bot.** 
-
-__Just Forward me Some messages or media and I will **Anonymouse** that !!__
+__Just Forward me Some messages or media and I will **Anonymouse** that!__
 
 ❗️ **Server** : [Heroku](Heroku.com)
 ❗️ **Library** : [Pyrogram](https://github.com/pyrogram/pyrogram)
