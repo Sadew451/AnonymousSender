@@ -31,7 +31,8 @@ REPLY_MARKUP = InlineKeyboardMarkup([
 async def start(client, message):    
     await message.reply_sticker(STICKER)
     await message.reply_text(START_TEXT,
-                             reply_markup=REPLY_MARKUP)
+                             reply_markup=REPLY_MARKUP,
+                             disable_web_page_preview=True)
 
 @SD.on_message(filters.caption & filters.private)
 async def addorno(client, message):
