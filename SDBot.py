@@ -8,8 +8,7 @@ logging.basicConfig(level=logging.INFO)
 SD = Client('Anonymous-Sender',
         api_id = API_ID,
         api_hash = API_HASH,
-        bot_token = BOT_TOKEN,
-        SDBot=dict(root="SDBot"))
+        bot_token = BOT_TOKEN,)
 
 STICKER = "CAACAgEAAxkBAAEByrhhud7I5QYR81zDK_43Fq0lLLXfUQACFgEAAnqTKUSkDDzwSrcbwyME"
 
