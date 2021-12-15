@@ -1,1 +1,4 @@
+# https://github.com/Sadew451/AnonymousSender.git
+
 pyrogram
+TgCrypto
