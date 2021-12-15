@@ -32,8 +32,7 @@ async def start(client, message):
     await message.reply_sticker(STICKER)
     await message.reply_text(START_TEXT,
                              reply_markup=REPLY_MARKUP)
-                             disable_web_page_preview=True,
-    
+
 @SD.on_message(filters.caption & filters.private)
 async def addorno(client, message):
     msg = message.message._id
@@ -47,6 +46,8 @@ async def addorno(client, message):
 @SD.on_message(filters.private & filters.text | filters.media)
 async def SDBot(client, message):
     await message.copy(message.chat.id)
+    disable_web_page_preview=True,
+    
 
 print("Bot is Started")
 print("Join @SDBotsz.")
