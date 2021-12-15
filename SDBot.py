@@ -48,7 +48,8 @@ async def addorno(client, message):
 async def SDBot(client, message):
     await message.copy(message.chat.id)
     disable_web_page_preview=True,
-    
+    quote=True
+
 print("Bot is Started")
 print("Join @SDBotsz.")
 SD.run()
