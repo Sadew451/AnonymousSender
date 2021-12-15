@@ -3,7 +3,7 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from pyrogram.types.bots_and_keyboards.reply_keyboard_markup import ReplyKeyboardMarkup
 
-logging.basicconfig(level=logging.INFO)
+logging.basicConfig(level=logging.INFO)
 
 SD = Client('Anonymous-Sender',
         api_id=env.API_ID,
