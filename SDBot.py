@@ -8,7 +8,7 @@ BOT_TOKEN = ("2100965681:AAH_09Shvy-kaHyioHnPJlUa2Y5z88zUbNY")
 
 SD = Client("anymouse sender", bot_token = BOT_TOKEN, api_id = API_ID, api_hash = API_HASH)
 
-STICKER = "CAACAgEAAxkBAAEByPxhuFGJrPxtyuVHqhUDlwLBFyx3uAACrAIAArx2eUS2Q-OWqN3gZyME"
+STICKER = "CAACAgEAAxkBAAEByrhhud7I5QYR81zDK_43Fq0lLLXfUQACFgEAAnqTKUSkDDzwSrcbwyME"
 
 START_TEXT = """👋 Hey I am **Anonymous Sender Bot.** 
 
