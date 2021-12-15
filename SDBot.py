@@ -6,9 +6,9 @@ from pyrogram.types.bots_and_keyboards.reply_keyboard_markup import ReplyKeyboar
 logging.basicConfig(level=logging.INFO)
 
 SD = Client('Anonymous-Sender',
-        api_id=env.API_ID,
-        api_hash=env.API_HASH,
-        bot_token=env.BOT_TOKEN,
+        api_id = API_ID,
+        api_hash = API_HASH,
+        bot_token = BOT_TOKEN,
         SDBot=dict(root="SDBot"))
 
 STICKER = "CAACAgEAAxkBAAEByrhhud7I5QYR81zDK_43Fq0lLLXfUQACFgEAAnqTKUSkDDzwSrcbwyME"
