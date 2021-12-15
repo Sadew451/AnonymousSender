@@ -23,7 +23,7 @@ REPLY_MARKUP = InlineKeyboardMarkup([
     [InlineKeyboardButton(text="👩‍💻 Creater", url="https://t.me/Itz_Sadew"),
         InlineKeyboardButton(
             text="👥 Support Group", url=f"https://t.me/SDBotz")],
-    [InlineKeyboardButton(text="🙋‍♀️ Update Channel", url=f"https://t.me/SDBOTs_Inifinity"),
+    [InlineKeyboardButton(text="📡 Update Channel", url=f"https://t.me/SDBOTs_Inifinity"),
         InlineKeyboardButton(
             text="💾 Scource Code", url=f"https://github.com/Sadew451")]])
 
