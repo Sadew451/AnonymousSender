@@ -10,6 +10,10 @@ SD = Client('Anonymous-Sender',
         api_hash = API_HASH,
         bot_token = BOT_TOKEN,)
 
+API_ID = ("4165223")
+API_HASH = ("972c118766f5e4a76847c1ffdb7d9a04")
+BOT_TOKEN = ("2100965681:AAH_09Shvy-kaHyioHnPJlUa2Y5z88zUbNY")
+
 STICKER = "CAACAgEAAxkBAAEByrhhud7I5QYR81zDK_43Fq0lLLXfUQACFgEAAnqTKUSkDDzwSrcbwyME"
 
 START_TEXT = """👋 Hey I am **Anonymous Sender Bot.** 
