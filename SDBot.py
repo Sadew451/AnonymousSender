@@ -14,8 +14,8 @@ START_TEXT = """👋 Hey I am **Anonymous Sender Bot.**
 
 Just Forward me Some messages or media and I will **Anonymouse** that !!
 
-- Server : [Heroku](Heroku.com)
-- Library : [Pyrogram](https://github.com/pyrogram/pyrogram)
+❗️ **Server** : [Heroku](Heroku.com)
+❗️ **Library** : [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 Made by @SDBotsz."""
 
