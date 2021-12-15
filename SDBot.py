@@ -5,10 +5,7 @@ from pyrogram.types.bots_and_keyboards.reply_keyboard_markup import ReplyKeyboar
 
 logging.basicConfig(level=logging.INFO)
 
-SD = Client('Anonymous-Sender',
-        api_id = API_ID,
-        api_hash = API_HASH,
-        bot_token = BOT_TOKEN,)
+SD = Client("anymouse sender", bot_token = BOT_TOKEN, api_id = API_ID, api_hash = API_HASH)
 
 API_ID = ("4165223")
 API_HASH = ("972c118766f5e4a76847c1ffdb7d9a04")
