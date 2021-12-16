@@ -42,6 +42,6 @@ from pyrogram import Client
 - Thanks to Pyrogram [Libary](https://github.com/pyrogram/pyrogram)
 - Damantha Jasinghe [Damantha126](https://t.me/MrItzme)
 
-# SubsCribe My Youtube Channel
+# Subscribe Youtube Channel
 
 - Subscribe Now - [SADEW J](https://www.youtube.com/c/SADEWJ)
