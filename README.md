@@ -15,7 +15,7 @@
 </p>
 
 - [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-- 
+- ![GitHub repo size](https://img.shields.io/github/repo-size/Sadew451/AnonymousSender?label=Repo%20Size)
 
 Find Bot in Telegram [AnonymousBot](https://t.me/SDAnonymousBot)
 
