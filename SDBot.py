@@ -47,6 +47,6 @@ async def addorno(client, message):
 async def SDBot(client, message):
     await message.copy(message.chat.id)
 
-print("Bot is Started")
-print("Join @SDBotsz.")
-SD.run()
+# print("Bot is Started")
+# print("Join @SDBotsz.")
+# SD.run()
