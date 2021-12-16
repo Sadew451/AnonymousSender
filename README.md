@@ -7,6 +7,8 @@
         <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
     </a>
 
+<img src="https://img.shields.io/github/license/Sadew451/AnonymousSender?style=for-the-badge&logo=appveyor" alt="LICENSE">
+    
 <p align="center">
   <a href="https://github.com/Sadew451/AnonymousSender/stargazers">
     <img src="https://img.shields.io/github/stars/Sadew451/AnonymousSender?style=social">
