@@ -1,4 +1,7 @@
-# AnonymousSender
+# Anonymous Sender Bot
+
+<p align="center"><a href="https://t.me/SDBOTs_Inifinity"><img src="https://telegra.ph/file/5e11cbce628b726b542eb.png
+" width="400"></a></p>
 
 <p align="center">
   <a href="https://github.com/Sadew451/AnonymousSender.git/stargazers">
