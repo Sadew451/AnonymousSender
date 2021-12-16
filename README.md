@@ -3,13 +3,6 @@
 <p align="center"><a href="https://t.me/SDBOTs_Inifinity"><img src="https://telegra.ph/file/5e11cbce628b726b542eb.png" width="400"></a></p>
 
 <p align="center">
-    <a href="https://python.org">
-        <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
-    </a>
-
-<img src="https://img.shields.io/github/license/Sadew451/AnonymousSender?style=for-the-badge&logo=appveyor" alt="LICENSE">
-    
-<p align="center">
   <a href="https://github.com/Sadew451/AnonymousSender/stargazers">
     <img src="https://img.shields.io/github/stars/Sadew451/AnonymousSender?style=social">
 
@@ -21,6 +14,13 @@
   </a>  
 </p>
 
+<p align="center">
+    <a href="https://python.org">
+        <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
+    </a>
+
+<img src="https://img.shields.io/github/license/Sadew451/AnonymousSender?style=for-the-badge&logo=appveyor" alt="LICENSE">
+    
 
 - [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - ![GitHub repo size](https://img.shields.io/github/repo-size/Sadew451/AnonymousSender?label=Repo%20Size)
