@@ -20,7 +20,7 @@
     </a>
 
 <img src="https://img.shields.io/github/license/Sadew451/AnonymousSender?style=for-the-badge&logo=appveyor" alt="LICENSE">
-    
+<img src="https://img.shields.io/badge/python-3.10.0-green?style=for-the-badge&logo=appveyor" alt="Python Version">
 
 - [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - ![GitHub repo size](https://img.shields.io/github/repo-size/Sadew451/AnonymousSender?label=Repo%20Size)
