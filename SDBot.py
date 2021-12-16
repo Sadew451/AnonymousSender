@@ -1,3 +1,5 @@
+# Sadew Jayasekara <https://t.me/Itz_Sadew>
+
 import os
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
