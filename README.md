@@ -1,6 +1,6 @@
 <h1 align="center"><b><b>Anonymous Sender</b></b></h1>
 
-<p align="center"><a href="https://t.me/SDBOTs_Inifinity"><img src="https://telegra.ph/file/5e11cbce628b726b542eb.png" width="400"></a></p>
+<p align="center"><a href="https://t.me/SDBOTs_Inifinity"><img src="https://telegra.ph/file/7768816957f2b6e0f0978.png" width="400"></a></p>
 
 <p align="center">
   <a href="https://github.com/Sadew451/AnonymousSender/stargazers">
