@@ -1,8 +1,8 @@
 {
   "name": "Anonymous Sender ",
-  "description": "aaa",
+  "description": "A Simple Anonymous Sender Bot Made with python",
   "repository": "https://github.com/Sadew451/AnonymousSender",
-  "logo": "https://cdn.worldvectorlogo.com/logos/incognito-1.svg",
+  "logo": "https://telegra.ph/file/5e11cbce628b726b542eb.png",
   "keywords": ["telegram", "Anonymous Sender", "Hide sender","telegram bot"],
   "env": {
      "BOT_TOKEN": {
