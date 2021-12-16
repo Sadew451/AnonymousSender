@@ -8,6 +8,6 @@ SD = Client('Anonymous-Sender',
                   api_id=var.API_ID,
                   api_hash=var.API_HASH,
                   bot_token=var.BOT_TOKEN,
-                  plugins=dict(root="SDBot"))
+                  plugins=dict(root="helper"))
 
 SD.run()
