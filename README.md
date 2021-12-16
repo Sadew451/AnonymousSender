@@ -44,4 +44,4 @@ from pyrogram import Client
 
 # SubsCribe My Youtube Channel
 
-- SADEWJ - [SADEW J](https://www.youtube.com/c/SADEWJ)
+- Subscribe Now - [SADEW J](https://www.youtube.com/c/SADEWJ)
