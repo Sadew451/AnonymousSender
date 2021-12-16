@@ -31,8 +31,8 @@ from pyrogram import Client
 
 # Mandatory Vars 🛠
 
-- [-] `APP_ID` :   You can get this value from @SDMyTgOrgBot
-- [-] `APP_HASH` :   You can get this value from @SDMyTgOrgBot
+- [-] `APP_ID` :   You can get this value from [My Telegram Org](https://t.me/SDMyTgOrgBot)
+- [-] `APP_HASH` :   You can get this value from [My Telegram Org](https://t.me/SDMyTgOrgBot)
 - [-] `BOT_TOKEN` : Get from botfarther
 
 
