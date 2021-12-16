@@ -24,8 +24,10 @@ from pyrogram import Client
 
 - [`Support`](https://t.me/SDBOTs_Inifinity)
 
-<a href="https://t.me/SDBOTz"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/SDBOTs_Inifinity"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+## Support   
+
+- Join Our [Telegram Group](https://www.telegram.dog/SDBOTz) 
+- Join Our [Channel](https://www.telegram.dog/SDBOTs_Inifinity) For Updates.
 
 # Mandatory Vars 🛠
 
