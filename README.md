@@ -26,3 +26,10 @@ from pyrogram import Client
 
 <a href="https://t.me/SDBOTz"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/SDBOTs_Inifinity"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+
+# Mandatory Vars 🛠
+
+``` [-] APP_ID:   You can get this value from @SDMyTgOrgBot
+    [-] APP_HASH :   You can get this value from @SDMyTgOrgBot
+    [-] BOT_TOKEN: Get from botfarther
+```
