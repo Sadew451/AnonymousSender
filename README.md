@@ -40,4 +40,4 @@ from pyrogram import Client
 
 - Sadew Jayasekara [Sadew](https://t.me/Itz_Sadew)
 - Thanks to Pyrogram [Libary](https://github.com/pyrogram/pyrogram)
-- Damantha Jasinghe [Damantha126](https://https://t.me/MrItzme)
+- Damantha Jasinghe [Damantha126](https://t.me/MrItzme)
