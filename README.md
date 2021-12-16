@@ -6,5 +6,4 @@
 
 ```python
 from pyrogram import Client
-__ Hello __
 ```
