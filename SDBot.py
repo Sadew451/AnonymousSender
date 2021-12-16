@@ -2,9 +2,9 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from pyrogram.types.bots_and_keyboards.reply_keyboard_markup import ReplyKeyboardMarkup
 
-API_ID = ("4165223")
-API_HASH = ("972c118766f5e4a76847c1ffdb7d9a04")
-BOT_TOKEN = ("2100965681:AAH_09Shvy-kaHyioHnPJlUa2Y5z88zUbNY")
+API_ID = ("API_ID")
+API_HASH = ("API_HASH")
+BOT_TOKEN = ("BOT_TOKEN")
 
 SD = Client("anymouse sender", bot_token = BOT_TOKEN, api_id = API_ID, api_hash = API_HASH)
 
