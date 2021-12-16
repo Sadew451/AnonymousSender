@@ -3,16 +3,17 @@
 <p align="center"><a href="https://t.me/SDBOTs_Inifinity"><img src="https://telegra.ph/file/5e11cbce628b726b542eb.png" width="400"></a></p>
 
 <p align="center">
-  <a href="https://github.com/Sadew451/AnonymousSender.git/stargazers">
+  <a href="https://github.com/Sadew451/AnonymousSender/stargazers">
     <img src="https://img.shields.io/github/stars/Sadew451/AnonymousSender?style=social">
 
   </a>
   
-  <a href="https://github.com/Sadew451/AnonymousSender.git/fork">
+  <a href="https://github.com/Sadew451/AnonymousSender/fork">
     <img src="https://img.shields.io/github/forks/Sadew451/AnonymousSender?label=Fork&style=social">
 
   </a>  
 </p>
+
 
 - [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - ![GitHub repo size](https://img.shields.io/github/repo-size/Sadew451/AnonymousSender?label=Repo%20Size)
