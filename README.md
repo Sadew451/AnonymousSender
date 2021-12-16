@@ -22,8 +22,6 @@ Find Bot in Telegram [AnonymousBot](https://t.me/SDAnonymousBot)
 from pyrogram import Client
 ```
 
-- [`Support`](https://t.me/SDBOTs_Inifinity)
-
 ## Support   
 
 - Join Our [Telegram Group](https://www.telegram.dog/SDBOTz) 
