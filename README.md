@@ -29,7 +29,8 @@ from pyrogram import Client
 
 # Mandatory Vars 🛠
 
-``` [-] APP_ID:   You can get this value from @SDMyTgOrgBot
+``` 
+    [-] APP_ID:   You can get this value from @SDMyTgOrgBot
     [-] APP_HASH :   You can get this value from @SDMyTgOrgBot
     [-] BOT_TOKEN: Get from botfarther
 ```
