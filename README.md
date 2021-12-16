@@ -33,4 +33,11 @@ from pyrogram import Client
     [-] APP_ID:   You can get this value from @SDMyTgOrgBot
     [-] APP_HASH :   You can get this value from @SDMyTgOrgBot
     [-] BOT_TOKEN: Get from botfarther
+
 ```
+
+# Special Credits
+
+- Sadew Jayasekara [Sadew](https://t.me/Itz_Sadew)
+- Thanks to Pyrogram [Libary](https://github.com/pyrogram/pyrogram)
+- Damantha Jasinghe [Damantha126](https://github.com/Damantha126)
